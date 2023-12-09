@@ -14,7 +14,6 @@ class Message implements Serializable {
         this.senderName = senderName;
     }
 
-
     public String getStatus() {
         return status;
     }
