@@ -1,3 +1,9 @@
+# CS4730-Paxos
+ 
+`docker build . -t prj4`
+
+`docker compose -f docker-compose-testcase-1.yml up`
+
 # Technical Report: Implementation of the Paxos Algorithm in a Distributed System
 
 ## System Design
